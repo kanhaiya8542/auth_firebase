@@ -14,12 +14,12 @@ class App extends Component {
     componentWillMount() {
         firebase.initializeApp({
 
-            apiKey: 'AIzaSyAfMy7txUqtLJ-F4c8-GbzQ2V83sXGzHw4',
+            apiKey: 'AIzaSyAfMy7txUqtLJ-F4c8-kkGbzQ2V83sXGzHw4',
             authDomain: 'authentication-d1dd6.firebaseapp.com',
-            databaseURL: 'https://authentication-d1dd6.firebaseio.com',
-            projectId: 'authentication-d1dd6',
-            storageBucket: 'authentication-d1dd6.appspot.com',
-            messagingSenderId: '864071332985'
+            databaseURL: 'https://authentication-kkd1dd6-.firebaseio.com',
+            projectId: 'authentication-kkd1dd6',
+            storageBucket: 'authentication-kkd1dd6.appspot.com',
+            messagingSenderId: '86407185332985'
 
         });
 
